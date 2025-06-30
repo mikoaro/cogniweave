@@ -174,7 +174,7 @@ This prompt is used for an advanced, on-demand feature, leveraging the power of 
 
 ## Future Vision
 
-CogniWeave is designed for growth and societal impact beyond the hackathon.
+CogniWeave is designed for growth and societal impact.
 
 - **Phase 1 (Refinement & Validation):** Harden the MVP and establish pilot programs with educational institutions and accessibility advocacy groups to gather real-world data.
 - **Phase 2 (Commercialization):** Pursue a B2B2C model, selling CogniWeave as an enterprise-grade accessibility platform to universities, school districts, and corporations. The **Amazon Q Business** analytics feature will be a key differentiator for institutional customers.
@@ -182,6 +182,4 @@ CogniWeave is designed for growth and societal impact beyond the hackathon.
 
 <!-- end list -->
 
-```
 
-```
