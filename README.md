@@ -43,7 +43,7 @@ CogniWeave is a distributed, tri-layer system designed to optimize for responsiv
 
 ![Solution Architecture Diagram](https://placehold.co/800x450/f3f4f6/000000?text=Client-Agent+%3C-%3E+Edge-Compute+%3C-%3E+AWS-Cloud-Backend)
 
-### 1. Client-Side Agent (Browser Extension / Mobile Service)
+### 1. Client-Side Agent (Browser Extension / Mobile Service / Next.JS Web Application)
 
 - **Function:** Intercepts raw web content, communicates with the Edge Compute Layer, and renders the transformed content back into the DOM.
 - **Technologies:** Chrome/Firefox Browser Extension, Expo for mobile.
