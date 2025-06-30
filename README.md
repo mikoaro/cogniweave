@@ -176,7 +176,7 @@ CogniWeave is designed for growth and societal impact.
 
 - **Phase 1 (Refinement & Validation):** Harden the MVP and establish pilot programs with educational institutions and accessibility advocacy groups to gather real-world data.
 - **Phase 2 (Commercialization):** Pursue a B2B2C model, selling CogniWeave as an enterprise-grade accessibility platform to universities, school districts, and corporations. The **Amazon Q Business** analytics feature will be a key differentiator for institutional customers.
-- **Phase 3 (Platform Expansion):** Evolve into a fundamental, OS-level accessibility layer with deep integrations into enterprise software suites (Microsoft 365, Google Workspace) and consumer platforms, making the entire digital world accessible to every type of mind.
+- **Phase 3 (Platform Expansion):** Evolve into a fundamental, OS-level accessibility layer with deep integrations into enterprise software suites (Amazon WorkMail, Amazon WorkSpaces, Amazon Chime, Amazon WorkDocs) and consumer platforms, making the entire digital world accessible to every type of mind.
 
 <!-- end list -->
 
