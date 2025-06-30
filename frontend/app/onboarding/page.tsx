@@ -71,7 +71,6 @@ export default function OnboardingPage() {
     // }
 
     try {
-      // Mock API call to generate cognitive profile
       const response = await fetch(
         "http://localhost:3071/api/onboarding/generate",
         {
@@ -84,6 +83,7 @@ export default function OnboardingPage() {
         }
       );
 
+      // Mock API call to generate cognitive profile
       // const response = await fetch("/api/profile/generate", {
       //   method: "POST",
       //   headers: { "Content-Type": "application/json" },
