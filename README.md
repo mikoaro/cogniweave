@@ -99,7 +99,7 @@ CogniWeave is a distributed, tri-layer system designed to optimize for responsiv
 
 ---
 
-## Getting Started: MVP Demonstration
+## Getting Started: Web and Browser Extension
 
 This plan outlines how to demonstrate the core end-to-end functionality of CogniWeave.
 
