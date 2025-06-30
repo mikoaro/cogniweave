@@ -59,7 +59,7 @@ CogniWeave is a distributed, tri-layer system designed to optimize for responsiv
 - **Key AWS Services:**
   - **Amazon SageMaker:** Used for AI research, development, and crucially, for **model distillation**, creating the efficient models deployed to the edge.
   - **Amazon Bedrock:** Provides API access to powerful foundation models (e.g., **Anthropic's Claude 3.5 Sonnet**) for the initial, nuanced user profile generation and for advanced agentic features.
-  - **Amazon Q Business:** Integrated into an administrative dashboard, allowing educators to ask natural language questions about **anonymized, aggregated usage data** to gain actionable insights for curriculum improvement.
+  - **Amazon Q Business:** Future versions will be integrated into an administrative dashboard, allowing educators to ask natural language questions about **anonymized, aggregated usage data** to gain actionable insights for curriculum improvement.
   - **Amazon S3 & DynamoDB:** Provide scalable and secure storage for model artifacts, user profiles, and application settings.
 
 ---
