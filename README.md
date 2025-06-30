@@ -41,7 +41,7 @@ CogniWeave introduces a paradigm shift from discrete assistive tools to a persis
 
 CogniWeave is a distributed, tri-layer system designed to optimize for responsiveness, privacy, and the strategic application of powerful AI.
 
-![Solution Architecture Diagram](https://placehold.co/800x450/f3f4f6/000000?text=Client-Agent+%3C-%3E+Edge-Compute+%3C-%3E+AWS-Cloud-Backend)
+![Solution Architecture Diagram](./screenshots/1-cogniweave-architecture.png)
 
 ### 1. Client-Side Agent (Browser Extension / Mobile Service / Next.JS Web Application)
 
