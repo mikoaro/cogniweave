@@ -1,4 +1,3 @@
-````markdown
 # CogniWeave: An Edge-Native AI Fabric for Cognitive Accessibility
 
 Every mind is unique, but our digital world is one-size-fits-all. For millions of students with dyslexia, ADHD, and other learning differences, the internet is a wall of text. CogniWeave is a revolutionary AI fabric that runs on the edge to rebuild that wall, brick by brick, in real-time. It's not a tool or an app; it's a personalized accessibility layer for the entire web, dynamically reformatting text, summarizing content, and removing distractions to match each user's cognitive needs, creating a truly equitable and barrier-free learning experience for all.
@@ -153,7 +152,6 @@ This prompt is sent from the client agent to the distilled LLM running on the ed
   "output_format": "structured_json_v1"
 }
 ```
-````
 
 ### Prompt for Analogical Explanation (Cloud Bedrock Agent)
 
