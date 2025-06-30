@@ -68,9 +68,19 @@ CogniWeave is a distributed, tri-layer system designed to optimize for responsiv
 
 ### Web Application & Dashboard
 
+- *New: Chrome and Firefox extension support in development*
+
 - **Onboarding Wizard:** A simple, guided questionnaire that uses a powerful cloud LLM (via Amazon Bedrock) to generate a detailed cognitive profile.
 - **Dynamic Profile Visualization:** An intuitive dashboard for users to view and fine-tune their profile settings (e.g., summary length, distraction sensitivity).
+- **Essay, Text Or Paragraph Simplification**: Paste your complex text or upload a PDF, and we'll transform it into clear, easy‑to‑understand language.
 - **Optimized Performance:** Built with Next.js 15, React 19, and the React Compiler for a blazing-fast and responsive user interface.
+
+
+- *Target Audience Tiers: Adapt text simplification to each audience's proficiency, ensuring the output aligns with their level of understanding in development.*
+- *Professional Mode: Activate a mode that lets users select words or sentences for in-depth analysis and simplification in development.*
+- *Re-simplify Sentence: Select any sentence to simplify it further in development.* 
+- *Vocabulary Sidebar: Each selected word is added only once to the sidebar for quick access to its definition and synonyms in development.* 
+
 
 ### Mobile Application
 
